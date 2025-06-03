@@ -1096,6 +1096,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -1179,7 +1180,6 @@
               ]
             },
             "id": "68023943-462e-49cd-b79c-637a27a1323e",
-            "zIndex": 11,
             "data": {
               "type": "tm.Actor",
               "name": "Browser Client",
@@ -1248,6 +1248,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -1331,7 +1332,6 @@
               ]
             },
             "id": "98a39e51-78df-422a-9a1e-aa75def4e3aa",
-            "zIndex": 12,
             "data": {
               "type": "tm.Store",
               "name": "SQL Database",
